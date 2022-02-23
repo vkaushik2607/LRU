@@ -58,7 +58,7 @@ public:
 int main() {
    
 
-     int capacity = 50;
+     int capacity = 5;
      LRUCache* obj = new LRUCache(capacity);
 	 
 	 int key = 2;
